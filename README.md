@@ -1,18 +1,17 @@
 # lista_banco_de_dados
 
 
-<i> Lista de bancos de dados no Brasil e em outros países </i>
-<br> <b> Lista de Bancos de Dados brasileiro </b> 
+<i> Lista de Bancos de Dados do Brasil </i>
 <br> <b> Banco de Informações Econômicas e Financeiras do Banco Central: </b> https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries
 <br> <b>Datasus:</b> http://datasus.saude.gov.br/
 <br> <b>Portal Brasileiro de Dados Abertos </b>: </b>http://dados.gov.br/
 <br> <b> IBGE:</b> https://www.ibge.gov.br/
 <br> <b>IPEA </b> http://www.ipeadata.gov.br/
 <br> <b> Ministério da Cultura:</b> http://sistemas.cultura.gov.br/comparar/salicnet/salicnet.php
-<br> <b>Polícia federal - Ministério da Justiça e Segurança: </b> http://www.pf.gov.br/institucional/acessoainformacao/acesso-a-informacao
+<br> <b>Polícia Federal - Ministério da Justiça e Segurança: </b> http://www.pf.gov.br/institucional/acessoainformacao/acesso-a-informacao
 <br> <b>Portal da Transparência: </b>http://transparencia.gov.br/
 
-<i> Lista de bancos de dados de outros países </i>
+<i> Lista de bancos de dados de outros países e de temas gerais </i>
 <br> <b> Google AI: https://ai.google/tools/datasets/</b> 
 <br> <b> Amazon: http://aws.amazon.com/datasets</b> 
 <br> <b> American cities: http://datasf.org</b> 
@@ -33,4 +32,5 @@
 <br> <b> União Europeia: http://open-data.europa.eu/en/data</b> 
 <br> <b>US Health: http://www.healthdata.gov</b> 
 <br> <b> World Bank: http://data.worldbank.org</b> 
+<br> <b> UN - Nações Unidas: https://data.un.org/ </b>
 
