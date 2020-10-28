@@ -20,3 +20,4 @@
 <br> <b>US Health: http://www.healthdata.gov</b> 
 <br> <b> World Bank: http://data.worldbank.org</b> 
 <br> <b> UN - Nações Unidas: https://data.un.org/ </b>
+<br> <b> Ookla (Sobre uso da internet no mundo): https://www.ookla.com/ookla-for-good </b>
