@@ -7,3 +7,4 @@
 <br> <b> Ministério da Cultura:</b> http://sistemas.cultura.gov.br/comparar/salicnet/salicnet.php
 <br> <b>Polícia Federal - Ministério da Justiça e Segurança: </b> http://www.pf.gov.br/institucional/acessoainformacao/acesso-a-informacao
 <br> <b>Portal da Transparência: </b>http://transparencia.gov.br/
+<br> <b> Ensaios Clínicos </b> http://www.ensaiosclinicos.gov.br/rg/?q=covid&rec_country=&age_min=&age_min_unit=Y&age_max=&age_max_unit=Y&page=2
