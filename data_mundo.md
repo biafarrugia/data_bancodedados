@@ -23,3 +23,4 @@
 <br> <b> Ookla (Sobre uso da internet no mundo): https://www.ookla.com/ookla-for-good </b>
 <br> <b> Patent Scope (sobre patentes): https://patentscope.wipo.int/search/pt/search.jsf </b>
 <br> <b> Clinical Trials :https://clinicaltrials.gov/ct2/search/advanced?cond=&term=&cntry=&state=&city=&dist= </b>
+<br> <b> Find a charity: https://findthatcharity.uk/ </b>
