@@ -24,3 +24,4 @@
 <br> <b> Patent Scope (sobre patentes): https://patentscope.wipo.int/search/pt/search.jsf </b>
 <br> <b> Clinical Trials :https://clinicaltrials.gov/ct2/search/advanced?cond=&term=&cntry=&state=&city=&dist= </b>
 <br> <b> Find a charity: https://findthatcharity.uk/ </b>
+<br> <b> COVID-19 updates: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide </b>
