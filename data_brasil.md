@@ -11,3 +11,4 @@
 <br> <b> Ensaios Clínicos </b> http://www.ensaiosclinicos.gov.br/rg/?q=covid&rec_country=&age_min=&age_min_unit=Y&age_max=&age_max_unit=Y&page=2
 <br> <b> Relatórios de LAI Senado </b> https://www12.senado.leg.br/transparencia/lai
 <br> <b> Câmara dos Deputados - Proposições </b> https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=relevancia&abaEspecifica=true&tipos=RIC
+<br> <b> Repositório de Dados Eleitorais TSE </b> https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
