@@ -13,3 +13,4 @@
 <br> <b> Câmara dos Deputados - Proposições </b> https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=relevancia&abaEspecifica=true&tipos=RIC
 <br> <b> Repositório de Dados Eleitorais TSE </b> https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
 <br> <b> ENAP </b> https://infogov.enap.gov.br/dados-navegaveis
+<br> <b> Busca Precendentes CGU </b> http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx
