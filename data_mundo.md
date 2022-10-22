@@ -1,5 +1,6 @@
  <i> Lista de bancos de dados de outros países e de temas gerais </i> 
 <br> <b> Google AI: https://ai.google/tools/datasets/</b> 
+<br> <b> Global Fishing: https://globalfishingwatch.org/ </b>
 <br> <b> Amazon: http://aws.amazon.com/datasets</b> 
 <br> <b> American cities: http://datasf.org</b> 
 <br> <b> Canadá: http://open.canada.ca</b> 
