@@ -1,5 +1,7 @@
 <i> Lista de Bancos de Dados do Brasil </i>
 <br> <b> Banco de Informações Econômicas e Financeiras do Banco Central: </b> https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries
+<br> <b> Base dos Dados: </b> https://basedosdados.org/
+<br> <b> SIDRA/IBGE: </b> https://sidra.ibge.gov.br/home/pimpfbr/brasil
 <br> <b>Datasus:</b> http://datasus.saude.gov.br/
 <br> <b> Localiza SUS: <br> https://localizasus.saude.gov.br/
 <br> <b>Portal Brasileiro de Dados Abertos </b>: </b>http://dados.gov.br/
