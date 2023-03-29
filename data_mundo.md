@@ -29,3 +29,5 @@
 <br> <b> Aleph OCCRP: https://aleph.occrp.org/ </b>
 <br> <b> OMDb API: http://www.omdbapi.com/ </b> 
 <br> <b> List of national and international statistical services: https://en.wikipedia.org/wiki/List_of_national_and_international_statistical_services </b>
+<br> <b> Financial Data: https://www.ffiec.gov/npw/FinancialReport/FinancialDataDownload?selectedyear=2022 <b>
+<br> <b> Comparative Agenda: https://www.comparativeagendas.net/ <b>
