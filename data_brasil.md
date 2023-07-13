@@ -16,4 +16,5 @@
 <br> <b> Repositório de Dados Eleitorais TSE </b> https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
 <br> <b> ENAP </b> https://infogov.enap.gov.br/dados-navegaveis
 <br> <b> Busca Precendentes CGU </b> http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx
-<br> <b> Data Fixers (Crimes Ambientais no Brasil)</b> https://datafixers.org/
+<br> <b> Data Fixers (Crimes Ambientais no Brasil)</b> https://datafixers.org/ 
+<br> <b> Servidores Públicos </b> https://emdados.republica.org/pessoas-do-setor-publico/dados
