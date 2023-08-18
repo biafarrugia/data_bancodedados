@@ -32,3 +32,4 @@
 <br> <b> Financial Data: https://www.ffiec.gov/npw/FinancialReport/FinancialDataDownload?selectedyear=2022 <b>
 <br> <b> Comparative Agenda: https://www.comparativeagendas.net/ <b>
 <br> <b> The Armed Conflict & Location Event Data Project: https://acleddata.com/conflict-severity-index/ <b>
+<br> <b> Civicus - Civic freedoms ranking https://monitor.civicus.org/  <b>
