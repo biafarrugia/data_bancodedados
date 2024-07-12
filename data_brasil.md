@@ -18,3 +18,5 @@
 <br> <b> Busca Precendentes CGU </b> http://buscaprecedentes.cgu.gov.br/busca/SitePages/principal.aspx
 <br> <b> Data Fixers (Crimes Ambientais no Brasil)</b> https://datafixers.org/ 
 <br> <b> Servidores Públicos </b> https://emdados.republica.org/pessoas-do-setor-publico/dados
+<br> <b> Chacinas policiais </b>: https://chacinaspoliciais.com.br/
+<br> <b> Tiroteios - Fogo Cruzado </b>: https://fogocruzado.org.br/
